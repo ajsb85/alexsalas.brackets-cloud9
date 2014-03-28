@@ -7,3 +7,7 @@ From now on, you are only one click away from Cloud9 IDE when browsing projects 
 
 Resources:
 https://c9.io/open/git/?url=git@github.com:adobe/brackets.git
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/alexsalas/alexsalas.brackets-cloud9/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
